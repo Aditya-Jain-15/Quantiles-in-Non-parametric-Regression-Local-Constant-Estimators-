@@ -11,6 +11,6 @@ The project is divided into 3 main parts:
 2) Choice of Bandwidth
 3) Empirical Comparison b/w the two local constant estimators
 
-The relevant <b> books </b> and <b> research papers </b> have been attached.
+The relevant <b> books </b> have been attached.
 
 <b> Codes </b> and <b> Graphs </b> are present in respective folders
