@@ -13,4 +13,6 @@ The project is divided into 3 main parts:
 
 The relevant <b> books </b> have been attached.
 
-<b> Codes </b> and <b> Graphs </b> are present in respective folders
+<b> Codes </b> and <b> Graphs </b> are present in respective folders.
+
+Project Report -> <b> final_report_UGP.pdf </b>
