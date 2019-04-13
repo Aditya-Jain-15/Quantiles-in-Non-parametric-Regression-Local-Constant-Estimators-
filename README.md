@@ -3,7 +3,7 @@
 
 This is an Under Graduate Project I did at IITK.
 
-The project is aimed at exploring two local constant estimators for non-parametric regression namely <b> Nadaraya Watson estimator </b> and <b> Local Constant Quantile estimator </b>. The main aim of the project is to do empirical comparison of the two methods on some practical data set.
+The project is aimed at exploring two local constant estimators for non-parametric regression namely <b> Nadaraya Watson estimator </b> and <b> Local Constant Quantile estimator </b>. The main aim of the project is to do empirical comparison of the two methods on a simulated data set.
 
 The project is divided into 3 main parts:
 
