@@ -1,4 +1,5 @@
-# Quantiles-in-Non-parametric-Regression-Local-Constant-Estimators-
+# Quantiles-in-Non-parametric-Regression
+## (Local Constant Estimators)
 
 This is an Under Graduate Project I did at IITK.
 
